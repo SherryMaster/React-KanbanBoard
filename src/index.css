@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme{
+  --color-mainBGColor: #0D1117;
+  --color-columnBGColor: #161C22;
+}
+
+::-webkit-scrollbar {
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-900;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-800 border-2 border-gray-900 rounded-4xl;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-rose-800;
+}
+
