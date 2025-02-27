@@ -111,10 +111,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🔗 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SherryMaster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-ahmed-987068282/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-100fff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sherrymaster)
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Shaheer Ahmed
