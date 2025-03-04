@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SherryMaster)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaheer-ahmed-987068282/)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076044710923)
+[![Facebook](https://img.shields.io/badge/Facebook-0077FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076044710923)
 
 ---
 
